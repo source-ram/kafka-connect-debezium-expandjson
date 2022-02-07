@@ -11,7 +11,7 @@ Use it in connector config file like this:
 ...
 "transforms": "expand",
 "transforms.expand.type": "com.source.ram.expandjsondbz.ExpandJSON$Value",
-"transforms.expand.sourceFields": "topic1@feild1,topic1@feild2,topic1@feild2,topic1@feild1"
+"transforms.expand.sourceFields": "topic1@feild1,topic1@feild2,topic2@feild3,topic3@feild4"
 ...
 ~~~
 
